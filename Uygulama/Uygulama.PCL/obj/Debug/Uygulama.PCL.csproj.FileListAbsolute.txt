@@ -1,0 +1,2 @@
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama.PCL\obj\Debug\Uygulama.PCL.csprojAssemblyReference.cache
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama.PCL\obj\Debug\Uygulama.PCL.csproj.CoreCompileInputs.cache

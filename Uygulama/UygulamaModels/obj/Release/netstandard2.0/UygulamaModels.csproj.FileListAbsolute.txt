@@ -1,0 +1,20 @@
+C:\Users\Eren ERKAN\source\repos\Uygulama\UygulamaModels\bin\Release\netstandard2.0\UygulamaModels.deps.json
+C:\Users\Eren ERKAN\source\repos\Uygulama\UygulamaModels\bin\Release\netstandard2.0\UygulamaModels.dll
+C:\Users\Eren ERKAN\source\repos\Uygulama\UygulamaModels\bin\Release\netstandard2.0\UygulamaModels.pdb
+C:\Users\Eren ERKAN\source\repos\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.csprojAssemblyReference.cache
+C:\Users\Eren ERKAN\source\repos\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.csproj.CoreCompileInputs.cache
+C:\Users\Eren ERKAN\source\repos\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.AssemblyInfoInputs.cache
+C:\Users\Eren ERKAN\source\repos\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.AssemblyInfo.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\UygulamaModels\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Eren ERKAN\source\repos\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.dll
+C:\Users\Eren ERKAN\source\repos\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.pdb
+C:\Users\FEVZI\Desktop\Uygulama\UygulamaModels\bin\Release\netstandard2.0\UygulamaModels.deps.json
+C:\Users\FEVZI\Desktop\Uygulama\UygulamaModels\bin\Release\netstandard2.0\UygulamaModels.dll
+C:\Users\FEVZI\Desktop\Uygulama\UygulamaModels\bin\Release\netstandard2.0\UygulamaModels.pdb
+C:\Users\FEVZI\Desktop\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.csprojAssemblyReference.cache
+C:\Users\FEVZI\Desktop\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.csproj.CoreCompileInputs.cache
+C:\Users\FEVZI\Desktop\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.AssemblyInfoInputs.cache
+C:\Users\FEVZI\Desktop\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.AssemblyInfo.cs
+C:\Users\FEVZI\Desktop\Uygulama\UygulamaModels\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\FEVZI\Desktop\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.dll
+C:\Users\FEVZI\Desktop\Uygulama\UygulamaModels\obj\Release\netstandard2.0\UygulamaModels.pdb

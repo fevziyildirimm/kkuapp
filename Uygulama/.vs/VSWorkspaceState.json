@@ -1,0 +1,21 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClassLibrary1",
+    "\\ClassLibrary1\\Connected Services",
+    "\\ClassLibrary1\\Connected Services\\ServiceReference1",
+    "\\Uygulama",
+    "\\Uygulama\\Uygulama",
+    "\\Uygulama\\Uygulama.Android",
+    "\\Uygulama\\Uygulama\\obj",
+    "\\Uygulama\\Uygulama\\obj\\Debug",
+    "\\Uygulama\\Uygulama\\obj\\Debug\\netstandard2.0",
+    "\\Uygulama\\Uygulama\\obj\\Debug\\netstandard2.0\\Views",
+    "\\Uygulama\\Uygulama\\obj\\Release",
+    "\\Uygulama\\Uygulama\\obj\\Release\\netstandard2.0",
+    "\\Uygulama\\Uygulama\\obj\\Release\\netstandard2.0\\Views",
+    "\\Uygulama\\Uygulama\\SoapServices",
+    "\\Uygulama\\Uygulama\\Views"
+  ],
+  "PreviewInSolutionExplorer": false
+}

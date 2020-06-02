@@ -1,0 +1,10 @@
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama.iOS\obj\iPhone\Release\optimized\
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama.iOS\obj\iPhone\Release\Uygulama.iOS.csprojAssemblyReference.cache
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama.iOS\obj\iPhone\Release\Uygulama.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama.iOS\obj\iPhone\Release\XamlC.stamp
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama.iOS\obj\iPhone\Release\Uygulama.iOS.exe

@@ -1,0 +1,74 @@
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\bin\Release\netstandard2.0\Uygulama.deps.json
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\bin\Release\netstandard2.0\Uygulama.dll
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\bin\Release\netstandard2.0\Uygulama.pdb
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\bin\Release\netstandard2.0\UygulamaModels.dll
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\bin\Release\netstandard2.0\UygulamaModels.pdb
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.csprojAssemblyReference.cache
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\ForgetPass.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\kkuedu.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\MainPages.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\PersonelLogin.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Sosyal.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\StudentInterface.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\StudentInterface2.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\StudentLogin.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\KütüphaneData.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\Page1.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\StudentLecture.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\StudentsInfo.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\TabMenu\TabControl.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\UserInterface.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\WebDuyuru.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\WebEtkinlik.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\WebHaber.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\WebIstatistik.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\WebView.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\YemekhaneDetail.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Yemekhane.xaml.g.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.AssemblyInfoInputs.cache
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.AssemblyInfo.cs
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.csproj.CopyComplete
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.dll
+C:\Users\Eren ERKAN\source\repos\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.pdb
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\bin\Release\netstandard2.0\Uygulama.deps.json
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\bin\Release\netstandard2.0\Uygulama.dll
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\bin\Release\netstandard2.0\Uygulama.pdb
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\bin\Release\netstandard2.0\UygulamaModels.dll
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\bin\Release\netstandard2.0\UygulamaModels.pdb
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.csprojAssemblyReference.cache
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\ForgetPass.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\kkuedu.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\MainPages.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\PersonelLogin.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Sosyal.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\StudentInterface.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\StudentInterface2.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\StudentLogin.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\KütüphaneData.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\Page1.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\StudentLecture.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\StudentsInfo.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\TabMenu\TabControl.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\UserInterface.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\WebDuyuru.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\WebEtkinlik.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\WebHaber.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\WebIstatistik.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\WebView.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Views\YemekhaneDetail.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Yemekhane.xaml.g.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.AssemblyInfoInputs.cache
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.AssemblyInfo.cs
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.csproj.CopyComplete
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.dll
+C:\Users\FEVZI\Desktop\Uygulama\Uygulama\Uygulama\obj\Release\netstandard2.0\Uygulama.pdb
